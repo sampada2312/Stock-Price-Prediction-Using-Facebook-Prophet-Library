@@ -31,10 +31,10 @@ Additionally, the forecast dataset was generated using the Prophet tool, contain
 
 
 # Files in this Repository
-Tesla_Stocks_Facebook_Prophet_Tool.ipynb: Jupyter Notebook containing the data analysis and model training.
-TSLA Evaluation.xlsx: Contains historical stock data, forecasted values, and evaluation analysis.
-forecast.csv: Dataset generated using Facebook Prophet tool.
-Dataset folder: Contains the TSLA.csv 
+1. Tesla_Stocks_Facebook_Prophet_Tool.ipynb: Jupyter Notebook containing the data analysis and model training.
+2. TSLA Evaluation.xlsx: Contains historical stock data, forecasted values, and evaluation analysis.
+3. forecast.csv: Dataset generated using Facebook Prophet tool.
+4. Dataset folder: Contains the TSLA.csv 
 
 
 This project demonstrates the power of Facebook Prophet for stock price forecasting. While it provides insights into future trends, stock market predictions are inherently uncertain. 
